@@ -1,5 +1,5 @@
-Hi, I’m @AndreTharssysMarquesSoares
-I study computer science at UFCG and I'm currently in the sixth period
+- Hi, I’m @AndreTharssysMarquesSoares
+- I study computer science at UFCG and I'm currently in the sixth period
 
 
 <!---
